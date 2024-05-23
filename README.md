@@ -1,4 +1,4 @@
-# ArduinoProjects
+inoProjects
 # There are two main project file one of which is the Automatic light project 
 # Room Occupancy Detection and Light Control
 
@@ -103,9 +103,6 @@ void loop() {
 3. **Open the serial monitor** in the Arduino IDE to view the people count.
 4. The light will automatically turn on when the room is occupied and turn off when the room is empty.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
